@@ -62,7 +62,7 @@ DefectSAM: Hierarchically Adapting SAM for Pixel-Wise Surface Defect Detection<b
 
 
 # 📖 Educations
-- *2023.06 - Now, Zhengzhou University, PhD student. 
+- 2023.06 - Now, Zhengzhou University, PhD student. 
 
 
 
