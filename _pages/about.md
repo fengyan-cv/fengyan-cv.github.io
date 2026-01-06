@@ -15,9 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
-I am currently pursuing the Ph.D. degree with the School of Computer and Artificial Intelligence. My research interest includes surface defect tection and salient object detection. 
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉 One paper is accepted by Pattern Recognition.  
