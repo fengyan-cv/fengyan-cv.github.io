@@ -27,7 +27,7 @@ My research interest includes salient object detection.
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/WPFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/GCRANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Global Context Guided Refinement and Aggregation Network for Lightweight Surface Defect Detection<br>
@@ -51,7 +51,7 @@ Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='images/WPFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='images/DefectSAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 DefectSAM: Hierarchically Adapting SAM for Pixel-Wise Surface Defect Detection<br>
