@@ -26,7 +26,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
   
 <strong style="color:green">Global Context Guided Refinement and Aggregation Network for Lightweight Surface Defect Detection</strong> <br>
-**PR, 2025** <br>
+<em>**PR, 2025**</em> <br>
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Lisha Cui, Jiale Cao, Mingliang Xu <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325015560) | [Code](https://github.com/iefengyan/GCRANet)
 
