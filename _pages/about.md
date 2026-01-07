@@ -37,7 +37,7 @@ Global Context Guided Refinement and Aggregation Network for Lightweight Surface
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/WPFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection<br>
+Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection
 
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Jiale Cao, Dong Chen, Mingliang Xu
 
