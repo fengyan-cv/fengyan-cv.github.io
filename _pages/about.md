@@ -54,7 +54,7 @@ DefectSAM: Hierarchically Adapting SAM for Pixel-Wise Surface Defect Detection<b
   
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Jiale Cao, Mingliang Xu
 
-- <strong style="color:green"> The proposed DefectSAM effectively modulates and decodes multilevel features of the encoder to capture defect information via the dual-feature adaptation unit. The dual-feature adaptation unit mainly includes the correlation-gated feature adaptation (CGFA) module and the mask-guided feature adaptation (MGFA) module.</strong>
+- <strong style="color:green"> The proposed DefectSAM effectively modulates and decodes multilevel features of the encoder to capture defect information via the dual-feature adaptation unit. The dual-feature adaptation unit mainly includes the correlation-gated feature adaptation (CGFA) module and the mask-guided feature adaptation (MGFA) module. </strong>
 </div>
 </div>
 - **Feng Yan**, Jiawei Cheng, Jian Feng, Yang Lu, Wenjie Zhang, Xiaoheng Jiang, Mingliang Xu.  Deviation capture networks for anomaly detection, Advanced Engineering Informatics, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1474034625007797)
