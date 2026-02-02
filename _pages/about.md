@@ -64,7 +64,7 @@ redirect_from:
 
 
 # 📖 Educations
-- 2023.06 - Now, Zhengzhou University, PhD student. 
+- 2023.06 - Present, Zhengzhou University, PhD student. 
 
 
 
