@@ -17,6 +17,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.09*: &nbsp; One paper is accepted by IEEE Transactions on Multimedia.
 - *2025.12*: &nbsp; One paper is accepted by Pattern Recognition.  
 
 # 📝 Publications 
