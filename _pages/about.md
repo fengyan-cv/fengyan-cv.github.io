@@ -22,6 +22,20 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/FDNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<strong style="color:green">Frequency Decoupled Cross-modal Network with Query Refinement for RGB-D Salient Object
+Detection</strong> <br>
+<em>**TMM, 2026**</em> <br>
+**Feng Yan**, Xiaoheng Jiang, Yang Lu, Jiale Cao, Runmin Cong, Mingliang Xu <br>
+[Paper] | [Code]
+
+<strong style="color:green"> </strong>
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/GCRANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
