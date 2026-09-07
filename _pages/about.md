@@ -21,10 +21,10 @@ redirect_from:
 - *2025.12*: &nbsp; One paper is accepted by Pattern Recognition.  
 
 # 📝 Publications 
--2026
+## 2026
 - **Feng Yan**, Xiaoheng Jiang, Yang Lu, Jiale Cao, Runmin Cong, Mingliang Xu. Frequency Decoupled Cross-modal Network with Query Refinement for RGB-D Salient Object, TMM, 2026.
 [Paper] | [Code]
--2025
+## 2025
 - **Feng Yan**, Xiaoheng Jiang, Yang Lu, Lisha Cui, Jiale Cao, Mingliang Xu. Global Context Guided Refinement and Aggregation Network for Lightweight Surface Defect Detection, Pattern Recognition, 2025
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325015560) | [[Code]](https://github.com/iefengyan/GCRANet)
 - **Feng Yan**, Jiawei Cheng, Jian Feng, Yang Lu, Wenjie Zhang, Xiaoheng Jiang, Mingliang Xu. Deviation capture networks for anomaly detection, Advanced Engineering Informatics, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1474034625007797)
